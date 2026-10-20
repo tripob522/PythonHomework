@@ -1,2 +1,1 @@
-# PythonHomework
-# PythonHomework
+นายไตรภพ จารุนัย รหัส 6912732104
